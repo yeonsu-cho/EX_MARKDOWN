@@ -68,3 +68,11 @@ ___
 ### 9. 이미지 삽입
 ![프로그램 사양서](https://github.com/yeonsu-cho/EX_MARKDOWN/blob/main/image.png "eClass cafe 입니다.")
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-------|:-------|:-------:|-------:|:-------|:-------:|
+|1	     |**yeonsu**  |	조연수	|1|	yeonsu8229@gmail.com|	9:00|
+|2	     |yeonsu  |	조연수	|1|	yeonsu8229@gmail.com|	9:00|
+|3	     |yeonsu  |	조연수	|1|	yeonsu8229@gmail.com|	9:00|
+|4	     |yeonsu  |	조연수	|1|	yeonsu8229@gmail.com|	9:00|
+|5	     |yeonsu  |	조연수	|1|	yeonsu8229@gmail.com|	9:00|
