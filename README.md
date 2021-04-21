@@ -59,4 +59,4 @@ public class Hello {
 ___
 
 ### 7. 하이퍼링크
-[eClass cafe] (https://cafe.naver.com/kndjang "eClass cafe 입니다.")
+[eClass cafe](https://cafe.naver.com/kndjang "eClass cafe 입니다.")
