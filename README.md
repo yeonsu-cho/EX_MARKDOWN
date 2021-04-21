@@ -66,7 +66,7 @@ ___
 *Spring*을 만끽하세요!!!
 
 ### 9. 이미지 삽입
-![프로그램 사양서](https://github.com/yeonsu-cho/EX_MARKDOWN/blob/main/program.png "프로그램 사양서 입니다.")
+![프로그램 사양서](https://github.com/yeonsu-cho/EX_MARKDOWN/blob/main/project.png "프로그램 사양서 입니다.")
 
 ### 10. 표
 |번호|아이디|이름|레벨|이메일|등록일|
