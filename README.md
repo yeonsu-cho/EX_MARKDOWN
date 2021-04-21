@@ -66,5 +66,5 @@ ___
 *Spring*을 만끽하세요!!!
 
 ### 9. 이미지 삽입
-![프로그램 사양서](https://cafe.naver.com/kndjang "eClass cafe 입니다.")
+![프로그램 사양서](https://github.com/yeonsu-cho/EX_MARKDOWN/blob/main/image.png "eClass cafe 입니다.")
 
